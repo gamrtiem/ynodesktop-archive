@@ -1,4 +1,7 @@
- 
+## THIS IS AN ARCHIVE; NO BUILDS WILL BE PROVIDED
+This is simply an archive of the ynodesktop github which was seemingly removed around the [11th of August, 2024](https://github.com/joaovitorbf/joaovitorbf/commit/096f42041f483f51e434cc2c6bb39027b43d0431).
+If joaovitorbf would like this removed (as it seemed intentional) please contact me on discord at icebro and I'll be happy to remove it. The only reason I've reuploaded this is, as stated earlier, is for archival purposes.
+
 
 ![ynodesk](https://user-images.githubusercontent.com/2998216/201456135-270da105-a4fa-4976-a69a-3a69e5d3fe59.png)
 
