@@ -1,3 +1,5 @@
+## for those looking for an up-to-date ynoproject, please visit affectioned's https://github.com/affectioned/ynodesktop repo as they've done an amazing job keeping the project alive
+
 ## THIS IS AN ARCHIVE
 This is an archive of the ynodesktop github which was seemingly removed around the [11th of August, 2024](https://github.com/joaovitorbf/joaovitorbf/commit/096f42041f483f51e434cc2c6bb39027b43d0431).
 If joaovitorbf would like this removed (as it seemed intentional) please contact me on discord at icebro and I'll be happy to remove it.
